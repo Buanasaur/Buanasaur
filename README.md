@@ -10,7 +10,7 @@ Explorando o mundo da programação através de projetos práticos.
 ### 💟 <em>Projetinhos em Andamento:</em>
 **[Quiz Harry Potter:](https://github.com/Buanasaur/quiz_harry_potter)** Quiz interativo de nivel intermediário sobre o universo de Harry Potter. Atualmente feito apenas com **`HTML`**.
 
-### 💟  <em>Linguagens e Tecnologias:</em>
+### 💟  <em>Linguagens e Software:</em>
 <img
   align="left"
   alt="HTML"
