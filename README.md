@@ -21,19 +21,19 @@ Explorando o mundo da programação através de projetos práticos.
 
 <img
   align="left"
-  alt="Photoshop"
-  title="Photoshop"
-  width="30px"
-  style="padding-right? 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-
-<img
-  align="left"
   alt="Python"
   title="Python"
   width="30px"
   style="padding-right? 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  <img
+  align="left"
+  alt="Photoshop"
+  title="Photoshop"
+  width="30px"
+  style="padding-right? 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
           
           
           
